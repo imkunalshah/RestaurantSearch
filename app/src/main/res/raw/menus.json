@@ -1,0 +1,184 @@
+{
+  "menus": [
+    {
+      "restaurantId": 1,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Appeteasers",
+          "menu-items": [
+            {
+              "id": "94298",
+              "name": "3 Chicken Wings",
+              "description": "Tender, Spicy and Juicy. Original or,Peri-Crusted",
+              "price": "250.00",
+              "images": []
+            },
+            {
+              "id": "94301",
+              "name": "Chicken Livers and Portuguese Roll",
+              "description": "Chicken Livers Topped with PERi-PERi, Sauce, Served with A Roll To Soak Up The Sauce",
+              "price": "250.00",
+              "images": []
+            }
+          ]
+        },
+        {
+          "id": "26588",
+          "name": "Peri-peri chicken",
+          "menu-items": [
+            {
+              "id": "94349",
+              "name": "1/4 Chicken",
+              "description": "Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "385.00",
+              "images": []
+            },
+            {
+              "id": "94352",
+              "name": "1/2 Chicken",
+              "description": "Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "685.00",
+              "images": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurantId": 2,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Italian",
+          "menu-items": [
+            {
+              "id": "94298",
+              "name": "Pizza (Margarita)",
+              "description": "Tender, Spicy and Juicy. Original or,Peri-Crusted",
+              "price": "250.00",
+              "images": []
+            },
+            {
+              "id": "94301",
+              "name": "Pasta",
+              "description": "Chicken Livers Topped with PERi-PERi, Sauce, Served with A Roll To Soak Up The Sauce",
+              "price": "250.00",
+              "images": []
+            }
+          ]
+        },
+        {
+          "id": "26588",
+          "name": "Mexican",
+          "menu-items": [
+            {
+              "id": "94349",
+              "name": "Burrito",
+              "description": "Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "385.00",
+              "images": []
+            },
+            {
+              "id": "94352",
+              "name": "Quesadilla",
+              "description": "Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "685.00",
+              "images": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurantId": 3,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Punjabi",
+          "menu-items": [
+            {
+              "id": "94298",
+              "name": "Paneer Tikka Masala",
+              "description": "Tender, Spicy and Juicy. Original or,Peri-Crusted",
+              "price": "250.00",
+              "images": []
+            },
+            {
+              "id": "94301",
+              "name": "Paneer Butter Masala",
+              "description": "Chicken Livers Topped with PERi-PERi, Sauce, Served with A Roll To Soak Up The Sauce",
+              "price": "250.00",
+              "images": []
+            }
+          ]
+        },
+        {
+          "id": "26588",
+          "name": "Biryani",
+          "menu-items": [
+            {
+              "id": "94349",
+              "name": "Veg. Hyderabadi Biryani",
+              "description": "Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "385.00",
+              "images": []
+            },
+            {
+              "id": "94352",
+              "name": "Veg. Dum Matka Biryani",
+              "description": "Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "685.00",
+              "images": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "restaurantId": 4,
+      "categories": [
+        {
+          "id": "26576",
+          "name": "Kathiyawadi",
+          "menu-items": [
+            {
+              "id": "94298",
+              "name": "Sev Tameta",
+              "description": "Tender, Spicy and Juicy. Original or,Peri-Crusted",
+              "price": "250.00",
+              "images": []
+            },
+            {
+              "id": "94301",
+              "name": "Lasaniya Bateta",
+              "description": "Chicken Livers Topped with PERi-PERi, Sauce, Served with A Roll To Soak Up The Sauce",
+              "price": "250.00",
+              "images": []
+            }
+          ]
+        },
+        {
+          "id": "26588",
+          "name": "Gujarati",
+          "menu-items": [
+            {
+              "id": "94349",
+              "name": "Undhiyu",
+              "description": "Quarter Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "385.00",
+              "images": []
+            },
+            {
+              "id": "94352",
+              "name": "Dhokli",
+              "description": "Half Chicken Marinated with PERi-PERi Sauce and Grilled",
+              "price": "685.00",
+              "images": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="search_hint">Restaurant name or a dish…</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="do_you_want_to_quit_app">Do you want to quit app?</string>
+    <string name="view_details">View Details</string>
+    <string name="start_searching_your_favourite_food_restaurant_and_cuisines">Start searching your favourite food, restaurant and cuisines...</string>
+    <string name="no_restaurants_found">No restaurants found 😔</string>
+    <string name="cuisines">Cuisines</string>
+    <string name="timings">Timings</string>
+</resources>

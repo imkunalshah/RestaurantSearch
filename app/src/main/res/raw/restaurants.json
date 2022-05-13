@@ -1,0 +1,196 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Mission Chinese Food",
+      "neighborhood": "Manhattan",
+      "photograph": "https://images.adsttc.com/media/images/5e4c/1025/6ee6/7e0b/9d00/0877/large_jpg/feature_-_Main_hall_1.jpg?1582043123",
+      "address": "171 E Broadway, New York, NY 10002",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "cuisine_type": [
+        "Asian",
+        "Chinese"
+      ],
+      "operating_hours": {
+        "monday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "tuesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "wednesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "thursday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "friday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "saturday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ],
+        "sunday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ]
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2020",
+          "rating": 4,
+          "comments": "xyz"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "650 - The Global Kitchen",
+      "neighborhood": "Ahmedabad",
+      "photograph": "https://b.zmtcdn.com/data/pictures/5/111895/d3706237628cc100e7c8243095efa8df_featured_v2.jpg",
+      "address": "Shreekunj Mandapam, Beside Golden Tulip Bunglows & Tulip Citadel, Ahmedabad, Gujarat 380015",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "cuisine_type": [
+        "Asian",
+        "Italian",
+        "Mexican"
+      ],
+      "operating_hours": {
+        "monday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "tuesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "wednesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "thursday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "friday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "saturday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ],
+        "sunday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ]
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2020",
+          "rating": 4,
+          "comments": "xyz"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jassi De Parathe",
+      "neighborhood": "Ahmedabad",
+      "photograph": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/sdv2kwval53xizcj2wcl",
+      "address": "107, Safal Pegasus, 100 Feet Anand Nagar Rd, above McDonald's, Prahlad Nagar, Ahmedabad, Gujarat 380015",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "cuisine_type": [
+        "North Indian"
+      ],
+      "operating_hours": {
+        "monday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "tuesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "wednesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "thursday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "friday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "saturday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ],
+        "sunday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ]
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2020",
+          "rating": 4,
+          "comments": "xyz"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Kismat Kathiyawadi",
+      "neighborhood": "Ahmedabad",
+      "photograph": "https://b.zmtcdn.com/data/pictures/2/19659822/c7152b9f12fa7f3549a8547454bb4e86.jpeg",
+      "address": "Gota, Ahmedabad, Gujarat 380015",
+      "latlng": {
+        "lat": 40.713829,
+        "lng": -73.989667
+      },
+      "cuisine_type": [
+        "North Indian",
+        "Gujarati"
+      ],
+      "operating_hours": {
+        "monday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "tuesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "wednesday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "thursday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "friday": [
+          "5:30 pm - 12:00 am"
+        ],
+        "saturday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ],
+        "sunday": [
+          "12:00 pm - 4:00 pm",
+          " 5:30 pm - 12:00 am"
+        ]
+      },
+      "reviews": [
+        {
+          "name": "Steve",
+          "date": "October 26, 2020",
+          "rating": 4,
+          "comments": "xyz"
+        }
+      ]
+    }
+  ]
+}
